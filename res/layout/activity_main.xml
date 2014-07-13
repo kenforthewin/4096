@@ -1,0 +1,172 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/container" >
+    
+    <Button
+        android:layout_gravity="top|right"
+        android:id="@+id/restart_button"
+        android:text="@string/restart_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        
+
+    <TableRow
+        android:layout_width="90dp"
+        android:layout_height="wrap_content" >
+        
+        <TextView 
+            android:id="@+id/ttll"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/ttl"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/ttr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/ttrr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+	</TableRow>
+	
+	<TableRow
+        android:layout_width="90dp"
+        android:layout_height="wrap_content" >
+        
+        <TextView 
+            android:id="@+id/tll"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/tl"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/tr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/trr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+	</TableRow>
+	
+	<TableRow
+        android:layout_width="90dp"
+        android:layout_height="wrap_content" >
+        
+        <TextView 
+            android:id="@+id/bll"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/bl"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/br"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/brr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+	</TableRow>
+	
+	<TableRow
+        android:layout_width="90dp"
+        android:layout_height="wrap_content" >
+        
+        <TextView 
+            android:id="@+id/bbll"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/bbl"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/bbr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+        
+        <TextView 
+            android:id="@+id/bbrr"
+            android:textSize="30sp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:background="@drawable/back" />
+	</TableRow>
+	
+
+	    
+	    
+	         
+	        
+	
+
+
+</TableLayout>
